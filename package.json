@@ -42,6 +42,7 @@
     "foundation-sites": "^6.4.4-rc1",
     "mongoose": "^4.12.4",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "react-modal": "^3.6.1"
   }
 }
